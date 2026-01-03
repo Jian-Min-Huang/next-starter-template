@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "黃健旻 Vincent Huang | Jian-Min-Huang",
-  description: "Coder, Speaker, Mentor and Leader | $_purefunc, Co-founder",
+  title: "靈居 - 給未來的你們",
+  description: "今天記錄的每一刻，都可能成為明天最珍貴的陪伴",
 };
 
 export default function RootLayout({
